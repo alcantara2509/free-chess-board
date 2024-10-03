@@ -2,6 +2,8 @@
 
 ## About the Project
 
+🔨 **This project is currently under construction.** 
+
 This project is a personal challenge where I created an **interactive chessboard** from scratch, without using external libraries or pre-written code. The goal was to develop an application that simulates the experience of playing chess, allowing users to drag and drop pieces on the board. To manage and optimize the code, I used **Webpack** as a module bundler.
 
 ## Features
