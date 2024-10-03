@@ -1,10 +1,7 @@
 import { handleSquareColor } from "./handleSquareColor";
 
 export const createBoard = (board) => {
-  if (!board) {
-    console.error("O elemento 'board' não foi encontrado.");
-    return;
-  }
+  if (!board) return;
 
   const cols = ["a", "b", "c", "d", "e", "f", "g", "h"];
   const rows = [1, 2, 3, 4, 5, 6, 7, 8];
